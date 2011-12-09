@@ -1,0 +1,6 @@
+h1. Garban Game Trainnig
+
+Este proyecto es un ejemplo de como con muy poco código se pueden empezar a hacer cosas chulas con Cocos2D.
+
+Garban Game consite en hacer saltar a Garban (el monkey) cuando pasa por el centro del trampolin. 
+
